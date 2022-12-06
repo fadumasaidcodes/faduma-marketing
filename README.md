@@ -1,7 +1,7 @@
 
 # 01 HTML CSS Git: Code Refactor
 
-# live website  https://fadumasaidcodes.github.io/faduma-marketing/
+
 
 ## Your Task
 
