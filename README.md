@@ -1,7 +1,8 @@
 
 # 01 HTML CSS Git: Code Refactor
 
-![Uploading README.png…]()
+![README](https://user-images.githubusercontent.com/102771343/205979769-9061524e-d39f-4c56-b4ba-6b794b398228.png)
+
 
 ## Your Task
 
